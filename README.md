@@ -25,20 +25,12 @@
 
 - 🌱 Siempre haciendo cursos para seguir aprendiendo**
 
-- 💬 Trabajando actualmente en Codemized, una empresa de servicios IT especializada en brindar soluciones a medida **
+- 💬 Trabajando actualmente en la empresa [Codemized](https://codemized.com), una empresa de servicios IT especializada en brindar soluciones a medida **
   
 
 - 📫 Este es mi correo por si te interesa mi perfil **fedemfiorotto@gmail.com**
 
-- 📫 Visita mi perfil de Linkedin (https://www.linkedin.com/in/federico-fiorotto).
-
-- 📫 Pagina de mi empresa **https://codemized.com/**
-
-    <div align="center">
-        <a href="https://codemized.com/">
-                <h3>Codemized</h3>
-        </a>
-    </div>
+- 📫 Visita mi perfil de Linkedin https://www.linkedin.com/in/federico-fiorotto
 
 <!--Intro end-->
 
